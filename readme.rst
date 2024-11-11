@@ -25,7 +25,7 @@ Sebelum memulai, pastikan telah terinstall:
 ## ⚙️ Instalasi & Penggunaan
 1. Clone repository
 ```bash
-git clone https://github.com/zeeCodingphpTailwind/ci-3-e-commerce-tenun.git
+git clone https://github.com/haeruzzikri/ci-3-e-commerce-tenun.git
 2. Setting database.
 
 #Default user
