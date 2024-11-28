@@ -30,5 +30,5 @@ git clone https://github.com/haeruzzikri/ci-3-e-commerce-tenun.git
 
 #Default user
 Admin:
-Email: admin1234@admin.com
+Email: admin1234@gmail.com
 Password: admin12345
